@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.33.0
+groq==0.28.0
